@@ -21,7 +21,7 @@ from datetime import datetime, date, time
 
 
 
-updater = Updater(token='1450231550:AAFNCy1JuOrts2dVHGnnDANULYRkdiQh-4I') # Токен API к Telegram
+updater = Updater(token='Введите Ваш Токен API к Telegram') # Токен API к Telegram
 dispatcher = updater.dispatcher
 
 # Обработка команд
