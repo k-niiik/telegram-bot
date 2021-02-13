@@ -8,7 +8,7 @@ import cv2
 from first_comand import *
 from dialog import *
 from network import *
-from add_person import *
+
 from add_person_video import *
 import threading
 from streams import *
